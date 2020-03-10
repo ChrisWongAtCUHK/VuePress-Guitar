@@ -27,7 +27,7 @@ pre {
   <pre>
     <a href="https://tabs.ultimate-guitar.com/tab/mary-hopkin/those-were-the-days-chords-1054310"><div>Those Were The Days chords</div><div>Mary Hopkin  1968</div><div>(Gene Raskin "Dorogoi dlinnoyu" by Boris Fomin)</div></a>
     <span>Capo II</span>
-    <span><span>
+    <span><img src="./chords.jpg"/><span>
     <span>[Intro]</span>    </span></span>
     <span> </span><span><span class="chord">Em</span> <span class="chord">Am</span> <span class="chord">B7</span> <span class="chord">Em</span>    </span>
     <span> </span>
